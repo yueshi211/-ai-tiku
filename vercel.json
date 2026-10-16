@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/api/index" },
+    { "source": "/query", "destination": "/api/query" },
+    { "source": "/health", "destination": "/api/health" }
+  ]
+}
